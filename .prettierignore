@@ -1,0 +1,6 @@
+# vercel
+.vercel
+.husky
+node_modules
+.next
+out
